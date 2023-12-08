@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyansh Daksha</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 - 🌱 I’m Working on **ReactJs,NodeJs,MongoDB, Blockchain, Hardhat, Data Structures & Algorithms**
 
