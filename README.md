@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priyansh Daksha</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJs, Blockchain, Hardhat, Data Structures & Algorithms**
+- 🌱 I’m Working on **ReactJs,NodeJs,MongoDB, Blockchain, Hardhat, Data Structures & Algorithms**
 
-- 📫 How to reach me **ishudaksh2603@gmail.com**
+- 📫 How to reach me **ishudaksh2603@gmail.com +918791152142**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1s6xuedHUalmxsIxN_a2OjR36qHXfNFbh?usp=drive_link](https://drive.google.com/drive/folders/1s6xuedHUalmxsIxN_a2OjR36qHXfNFbh?usp=drive_link)
 
